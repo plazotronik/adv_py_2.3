@@ -1,0 +1,4 @@
+--index-url https://pypi.python.org/simple/
+
+psycopg2>=2.7
+tabulate>=0.7.3
